@@ -206,6 +206,10 @@ This project was developed **solely for educational purposes** and demonstrates:
 * Database modeling
 * UI/UX consistency
 
+## 📌 Internship Information
+
+**Intern ID:** CITS6292
+
 ## 📜 License
 
 MIT License – Free to use for learning and academic reference.
