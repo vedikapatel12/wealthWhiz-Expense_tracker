@@ -1,0 +1,39 @@
+.expenses-page {
+  padding: 2rem;
+}
+
+.expense-form {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 0.75rem;
+  margin-bottom: 2rem;
+}
+
+.expense-form input,
+.expense-form select,
+.expense-form button {
+  padding: 0.6rem;
+}
+
+.expense-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.expense-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.75rem;
+  background: #f4f6f8;
+  border-radius: 6px;
+}
+
+.expense-item span {
+  color: #666;
+}
+
+.amount {
+  color: #e53935;
+  font-weight: 600;
+}
